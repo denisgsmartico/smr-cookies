@@ -38,7 +38,7 @@ CookieConsent.run({
                 },
                 preferencesModal: {
                     title: "Consent Preferences Center",
-                    acceptAllBtn: "Accept all",
+                    acceptAllBtn: "Accept all", 
                     acceptNecessaryBtn: "Reject all",
                     savePreferencesBtn: "Save preferences",
                     closeIconLabel: "Close modal",
