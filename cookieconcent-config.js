@@ -60,7 +60,7 @@ CookieConsent.run({
                         },
                         {
                             title: "More information",
-                            description: "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"legal@smartico.ai\">contact me</a>."
+                            description: "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"mailto:legal@smartico.ai\">contact me</a>."
                         }
                     ]
                 }
